@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-26T13:59:29.294Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="qeP2EdNgLaRqBqRTdHOD" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-26T13:59:47.118Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.6.0" etag="FjDIQ4U-aCxldC4GwFqy" type="github">
   <diagram id="j5t1kzL8Hn1Cz-pzJEAG" name="페이지-1">
     <mxGraphModel dx="1778" dy="943" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -31,43 +31,10 @@
         <mxCell id="APxSAgx1kO5o74nnmK6r-46" value="&lt;b&gt;Master&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="APxSAgx1kO5o74nnmK6r-47">
           <mxGeometry x="120" y="65" width="110" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="APxSAgx1kO5o74nnmK6r-48" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="APxSAgx1kO5o74nnmK6r-48" value="" style="group;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" vertex="1" connectable="0" parent="1">
           <mxGeometry x="210" y="320" width="517.5" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="APxSAgx1kO5o74nnmK6r-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="APxSAgx1kO5o74nnmK6r-48">
-          <mxGeometry width="517.5" height="160" as="geometry" />
-        </mxCell>
-        <mxCell id="APxSAgx1kO5o74nnmK6r-52" value="&lt;h2&gt;Middleware Layer&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="APxSAgx1kO5o74nnmK6r-48">
-          <mxGeometry y="65" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="APxSAgx1kO5o74nnmK6r-65" value="" style="group" vertex="1" connectable="0" parent="APxSAgx1kO5o74nnmK6r-48">
-          <mxGeometry x="140" y="10" width="350" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="APxSAgx1kO5o74nnmK6r-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="APxSAgx1kO5o74nnmK6r-65">
-          <mxGeometry width="350" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="APxSAgx1kO5o74nnmK6r-53" value="&lt;h3&gt;Client Libaray&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="APxSAgx1kO5o74nnmK6r-65">
-          <mxGeometry x="105" y="15" width="139.99999999999997" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="APxSAgx1kO5o74nnmK6r-66" value="" style="group" vertex="1" connectable="0" parent="APxSAgx1kO5o74nnmK6r-48">
-          <mxGeometry x="140" y="80" width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="APxSAgx1kO5o74nnmK6r-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="APxSAgx1kO5o74nnmK6r-66">
-          <mxGeometry width="170" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="APxSAgx1kO5o74nnmK6r-68" value="&lt;h3&gt;ROSTCP/ROSUDP&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="APxSAgx1kO5o74nnmK6r-66">
-          <mxGeometry x="51" y="15" width="68" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="APxSAgx1kO5o74nnmK6r-69" value="" style="group" vertex="1" connectable="0" parent="APxSAgx1kO5o74nnmK6r-48">
-          <mxGeometry x="330" y="80" width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="APxSAgx1kO5o74nnmK6r-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="APxSAgx1kO5o74nnmK6r-69">
-          <mxGeometry width="160" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="APxSAgx1kO5o74nnmK6r-71" value="&lt;h3&gt;Nodelet API&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="APxSAgx1kO5o74nnmK6r-69">
-          <mxGeometry x="48" y="15" width="64" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="APxSAgx1kO5o74nnmK6r-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;dashed=1;" vertex="1" parent="1">
+        <mxCell id="APxSAgx1kO5o74nnmK6r-57" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;dashed=1;" vertex="1" parent="1">
           <mxGeometry x="210" y="490" width="517.5" height="90" as="geometry" />
         </mxCell>
         <mxCell id="APxSAgx1kO5o74nnmK6r-60" value="&lt;h2&gt;OS Layer&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -99,6 +66,39 @@
         </mxCell>
         <mxCell id="APxSAgx1kO5o74nnmK6r-99" value="&lt;h3&gt;Mac&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="APxSAgx1kO5o74nnmK6r-97">
           <mxGeometry x="33.3" y="15" width="44.39999999999999" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="APxSAgx1kO5o74nnmK6r-49" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="320" width="517.5" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="APxSAgx1kO5o74nnmK6r-52" value="&lt;h2&gt;Middleware Layer&lt;/h2&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="210" y="385" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="APxSAgx1kO5o74nnmK6r-65" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="330" width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="APxSAgx1kO5o74nnmK6r-50" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="APxSAgx1kO5o74nnmK6r-65">
+          <mxGeometry width="350" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="APxSAgx1kO5o74nnmK6r-53" value="&lt;h3&gt;Client Libaray&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="APxSAgx1kO5o74nnmK6r-65">
+          <mxGeometry x="105" y="15" width="139.99999999999997" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="APxSAgx1kO5o74nnmK6r-66" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="350" y="400" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="APxSAgx1kO5o74nnmK6r-67" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="APxSAgx1kO5o74nnmK6r-66">
+          <mxGeometry width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="APxSAgx1kO5o74nnmK6r-68" value="&lt;h3&gt;ROSTCP/ROSUDP&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="APxSAgx1kO5o74nnmK6r-66">
+          <mxGeometry x="51" y="15" width="68" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="APxSAgx1kO5o74nnmK6r-69" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="540" y="400" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="APxSAgx1kO5o74nnmK6r-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="APxSAgx1kO5o74nnmK6r-69">
+          <mxGeometry width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="APxSAgx1kO5o74nnmK6r-71" value="&lt;h3&gt;Nodelet API&lt;/h3&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="APxSAgx1kO5o74nnmK6r-69">
+          <mxGeometry x="48" y="15" width="64" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
